@@ -1,0 +1,27 @@
+/*------ Header Attributes -----*/
+.title {
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+    margin-top: .35em;
+}
+
+.statement {
+    color: firebrick;
+    font-size: 25px;
+    font-family: cursive;
+    margin-bottom: 1em;
+}
+
+/*--------ABOUT---------*/
+.col-md {
+    color: white;
+}
+
+/*------LOCATION------*/
+.location {
+    padding-top: 25px;
+}
+
+.locale {
+    color: white;
+}
