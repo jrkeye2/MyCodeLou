@@ -1,12 +1,15 @@
 $(document).ready(function () {
    
-    // An alert letting visitors that the email list isn't implement ed yet
+    // An alert letting visitors that the email list isn't implemented yet
     
     $("#ebtn").click(function () {
         alert("Coming Soon!");
     });
     
 });
+
+
+    // A lightboxy for the two images on the page
 
 var $overlay = $('<div id="overlay"></div>');
 var $image = $("<img>");
